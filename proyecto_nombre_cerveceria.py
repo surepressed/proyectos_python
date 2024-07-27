@@ -1,0 +1,1 @@
+print("Tu cerveceria \nes '" + input("Dime el nombre de tu mascota: ") + " " + input("Ahora tu color favorito: ") + "'\nFelicidades!!!")  
